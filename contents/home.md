@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Gordon213)
 
 I'm currently pursuing a Bachelor's Degree in China at the School of Computer Science, Jilin University.
 
