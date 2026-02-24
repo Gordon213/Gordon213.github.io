@@ -10,4 +10,4 @@ haoyangl9924@mails.jlu.edu.cn
 • GPA: 4.0/4.0  
 
 #### Research Interests  
-Transfer learning, Point cloud recognition
+Transfer Learning, 3D Vision
